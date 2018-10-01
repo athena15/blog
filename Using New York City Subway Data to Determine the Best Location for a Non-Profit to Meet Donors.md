@@ -1,6 +1,6 @@
 ### Using New York City Subway Data to Determine the Best Location for a Non-Profit to Meet Donors
 
-![image-20180930200423852](/Users/brenner/Library/Application Support/typora-user-images/image-20180930200423852.png)
+![](/Users/brenner/blog/Project Benson Cover Photo.jpg)
 
 I recently began a 12 week Data Science Immersive course with Metis in downtown Seattle. Our first project, code named "Project Benson," was to use data science and exploratory data analysis to select the best New York City subway stations for a non-profit to deploy their street team. The data set we worked with was large, with over 2 million rows of data - and the conclusions we ended up with were not what you might expect.
 
@@ -50,7 +50,7 @@ Building upon the Station location data we collected via the Google Maps API, we
 
 <u>**Our Approach to the Problem**</u>
 
-![image-20180930172643750](/Users/brenner/Library/Application Support/typora-user-images/image-20180930172643750.png)
+![](/Users/brenner/blog/venn_diagram.jpg)
 
 We took a 3-pronged approach: focusing on the intersection of *volume, commuters*, and *high income.*
 
@@ -76,7 +76,6 @@ We took a 3-pronged approach: focusing on the intersection of *volume, commuters
    ​	"*Because that's where the money is!!*"
 
    Wealthy New Yorkers are much more attractive targets for the organization than non-wealthy New Yorkers who have less disposable income. Therefore, we used our knowledge of local geography and income demographics to identify areas where wealthy potential donors lived.
-
 
 ---
 
